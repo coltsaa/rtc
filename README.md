@@ -4,4 +4,4 @@ _i format the code and it now seems pretty._
 
 main.js provides a API *getUserMedia()*
 
-`update1` : capture button added,now you can take screenshot.what\`s more,4 kinds of image effect added.
+`update1` : capture button added,now you can take screenshot. what\`s more,4 kinds of image effect added.
