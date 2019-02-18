@@ -8,4 +8,6 @@ main.js provides APIs -> *getUserMedia()* , *RTCPeerConnection()*
 
 ~`update 1.2` : what\`s more , 4 kinds of image effect added .~
 
-`update 2` : RTC peer connection added . As a simple RTC application , it worked , even you could line with yourself .
+~`update 2` : RTC peer connection added . As a simple RTC application , it worked , even you could line with yourself .~
+
+`update 3` : Use Java override the code , now can use it between 2 computers!
